@@ -1,2 +1,5 @@
 # RIP-Matthieu
-Travail de fin d'études en lien avec l'escalade
+
+Projet de création de Hangboard connecté permettant de s'entrainer en NO FOOT. 
+Contrôlable par une application mobile.
+
